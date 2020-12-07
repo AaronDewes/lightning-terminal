@@ -10,7 +10,6 @@ jobs:
     - name: Install update tool
       run: sudo npm -g install npm-check-updates
     - uses: taichi/actions-package-update@master
-      working-directory: ./app
       env:
         AUTHOR_EMAIL: aaron.dewes@web.de
         AUTHOR_NAME: Package update bot
@@ -19,4 +18,4 @@ jobs:
         LOG_LEVEL: debug
         UPDATE_COMMAND: ncu
       with:
-        args: -u
+        args: -u --packageFile ./app/packages.json
