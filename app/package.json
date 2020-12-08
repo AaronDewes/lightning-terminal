@@ -81,7 +81,7 @@
     "jest-canvas-mock": "2.2.0",
     "jest-environment-jsdom-sixteen": "1.0.3",
     "node-sass": "5.0.0",
-    "prettier": "2.0.5",
+    "prettier": "2.2.1",
     "ts-protoc-gen": "0.12.0",
     "typescript": "~3.9.5"
   },
