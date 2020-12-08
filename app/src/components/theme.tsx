@@ -1,6 +1,6 @@
 import React from 'react';
 import emotionStyled, { CreateStyled } from '@emotion/styled/macro';
-import { ThemeProvider as EmotionThemeProvider } from 'emotion-theming';
+import { ThemeProvider as EmotionThemeProvider } from '@emotion/core';
 
 export interface Theme {
   fonts: {
