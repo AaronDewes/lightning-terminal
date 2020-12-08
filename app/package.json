@@ -67,7 +67,7 @@
     "@types/lodash": "4.14.157",
     "@types/node": "14.0.14",
     "@types/react": "16.9.41",
-    "@types/react-dom": "16.9.8",
+    "@types/react-dom": "17.0.0",
     "@types/react-router": "5.1.8",
     "@types/react-virtualized": "9.21.10",
     "@types/reactour": "1.17.1",
