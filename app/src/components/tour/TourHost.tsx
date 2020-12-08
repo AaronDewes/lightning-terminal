@@ -143,6 +143,7 @@ const TourHost: React.FC = () => {
       steps={tourSteps}
       isOpen={uiStore.tourVisible}
       onRequestClose={uiStore.closeTour}
+      // @ts-ignore: Property 'colors' does not exist on type 'Theme'.
       accentColor={theme.colors.pink}
       goToStep={uiStore.tourActiveStep}
       getCurrentStep={uiStore.setTourActiveStep}
