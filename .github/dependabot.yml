@@ -1,8 +1,7 @@
 version: 2
 updates:
-- package-ecosystem: npm
+- package-ecosystem: yarn
   directory: "/app"
   schedule:
-    interval: daily
-    time: "04:00"
+    interval: live
   open-pull-requests-limit: 10
