@@ -18,15 +18,15 @@
     "build-storybook": "build-storybook -s public"
   },
   "dependencies": {
-    "@emotion/core": "10.1.1",
+    "@emotion/core": "11.0.0",
     "@emotion/styled": "10.0.27",
+    "@emotion/react": "11.0.0",
     "@improbable-eng/grpc-web": "0.13.0",
     "big.js": "6.0.3",
     "bootstrap": "4.5.3",
     "copy-to-clipboard": "3.3.1",
     "date-fns": "2.16.1",
     "debug": "4.3.1",
-    "@emotion/core": "11.0.0",
     "file-saver": "2.0.5",
     "http-proxy-middleware": "1.0.6",
     "i18next": "19.8.4",
