@@ -135,7 +135,7 @@ const Styled = {
 
 const TourHost: React.FC = () => {
   const { uiStore } = useStore();
-  const theme = useTheme<Theme>();
+  const theme = useTheme();
 
   const { Tour } = Styled;
   return (
