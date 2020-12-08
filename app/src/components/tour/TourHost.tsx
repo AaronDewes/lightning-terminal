@@ -2,7 +2,7 @@
 import React from 'react';
 import Tour, { ReactourStep } from 'reactour';
 import { observer } from 'mobx-react-lite';
-import { useTheme } from 'emotion-theming';
+import { useTheme } from '@emotion/react';
 import { useStore } from 'store';
 import { styled, Theme } from 'components/theme';
 import ChannelListStep from './ChannelListStep';
