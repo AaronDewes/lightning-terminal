@@ -1,4 +1,5 @@
 /* eslint-disable react/display-name */
+/* eslint-disable typescript-eslint/ban-ts-comment */
 import React from 'react';
 import Tour, { ReactourStep } from 'reactour';
 import { observer } from 'mobx-react-lite';
