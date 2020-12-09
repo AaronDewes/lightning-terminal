@@ -86,6 +86,7 @@ const theme: Theme = {
   },
 };
 
+// @tslint-ignore: Type 'CreateStyled' is not generic.  TS2315
 export const styled = emotionStyled as CreateStyled<Theme>;
 
 export const ThemeProvider: React.FC = ({ children }) => {
