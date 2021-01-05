@@ -58,7 +58,7 @@
     "@testing-library/jest-dom": "5.11.6",
     "@testing-library/react": "11.2.2",
     "@testing-library/user-event": "12.5.0",
-    "@types/big.js": "6.0.0",
+    "@types/big.js": "6.0.2",
     "@types/debug": "4.1.5",
     "@types/file-saver": "2.0.1",
     "@types/google-protobuf": "3.7.4",
