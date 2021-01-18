@@ -11649,10 +11649,10 @@ mobx-react-router@4.1.0:
   resolved "https://registry.yarnpkg.com/mobx-react-router/-/mobx-react-router-4.1.0.tgz#de014848207d8aa32f6a4e67ed861bd2cb6516e5"
   integrity sha512-2knsbDqVorWLngZWbdO8tr7xcZXaLpVFsFlCaGaoyZ+EP9erVGRxnlWGqKyFObs3EH1JPLyTDOJ2LPTxb/lB6Q==
 
-mobx-utils@5.6.1:
-  version "5.6.1"
-  resolved "https://registry.yarnpkg.com/mobx-utils/-/mobx-utils-5.6.1.tgz#b7d9184b7442fe704be367d4363a2e9961be28cc"
-  integrity sha512-bpTJzM8MXniGnXCZY+ImjPDqBKQ3+G3g/QFSPtNkH6HM3x14DAPqKH7No7NDyhbXBMv3FaVetsgnoEPozbi45Q==
+mobx-utils@5.6.2:
+  version "5.6.2"
+  resolved "https://registry.yarnpkg.com/mobx-utils/-/mobx-utils-5.6.2.tgz#4858acbdb03f0470e260854f87e8c2ba916ebaec"
+  integrity sha512-a/WlXyGkp6F12b01sTarENpxbmlRgPHFyR1Xv2bsSjQBm5dcOtd16ONb40/vOqck8L99NHpI+C9MXQ+SZ8f+yw==
 
 mobx@5.15.7:
   version "5.15.7"
